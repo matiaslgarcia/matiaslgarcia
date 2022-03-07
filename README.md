@@ -1,4 +1,8 @@
-# Welcome/Bienvenido 👋👋
+```js
+const helloWorld = () => {
+  console.log('Welcome/Bienvenido 🎉')
+}
+```
 ## Me llamo **Matias Garcia** :grin:
 
 Soy recien graduado de Analista en Sistemas en la Facultad Regional Resistencia y desarrolador web Frontend Developer. 
