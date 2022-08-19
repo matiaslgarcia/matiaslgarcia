@@ -12,7 +12,7 @@ Nacido en :argentina: - Resistencia Chaco pero con alma de Nomada!
 
 - [Linkedin](https://www.linkedin.com/in/matias-luciano-garcia)
 - [Facebook](https://www.facebook.com/mattias.garciaa)
-- [Twitter](https://twitter.com/MatiasG09349576)
+- [Twitter](https://twitter.com/matiaslgarcia94)
 
 
 ### Tools and Language
