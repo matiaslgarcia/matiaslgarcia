@@ -5,7 +5,7 @@ const helloWorld = () => {
 ```
 ## Me llamo **Matias Garcia** :grin:
 
-Soy recien graduado de Analista en Sistemas en la Facultad Regional Resistencia y desarrollador web Frontend Developer. 
+Soy Analista en Sistemas en la Facultad Regional Resistencia y desarrollador web Backend/Frontend Developer. 
 Nacido en :argentina: - Resistencia Chaco pero con alma de Nomada!
 
 ### Social Media:
