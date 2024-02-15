@@ -1,18 +1,29 @@
-```js
+# Hi there! 👋 I'm Matias Garcia
+
+```typescript
 const helloWorld = () => {
-  console.log('Welcome/Bienvenido 🎉')
+  return 'Welcome/Bienvenido 🎉'
 }
 ```
-## Me llamo **Matias Garcia** :grin:
+## I'm a Systems Analyst graduate from UTN and a Backend Developer with NestJS based in :argentina: - Resistencia Chaco, but with the soul of a Nomad!
 
-Soy Analista en Sistemas egresado de la UTN y Backend Developer. 
-Nacido en :argentina: - Resistencia Chaco pero con alma de Nomada!
+# About Me
+- 🔭 I’m currently working on exciting NestJS projects.
+- 🌱 I’m always learning and exploring new technologies.
+- 💬 Ask me about anything related to backend development or technology in general.
+- 📫 How to reach me: LinkedIn, Facebook, Twitter
 
-### Social Media:
-
+Let's connect!
 - [Linkedin](https://www.linkedin.com/in/matias-luciano-garcia)
 - [Facebook](https://www.facebook.com/mattias.garciaa)
 - [Twitter](https://twitter.com/matiaslgarcia94)
+
+Tech Stack
+- 💻 Backend: NestJS, Node.js, GraphQL
+- 🌐 Frontend: HTML, CSS, JavaScript & React
+- 🛢️ Databases: MongoDB, MySQL, SQLServer
+- ⚙️ Tools: Git, VSCode
+- 📖 Programming Language: Typescript, Java
 
 
 ### Tools and Language
