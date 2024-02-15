@@ -5,13 +5,14 @@ const helloWorld = () => {
   return 'Welcome/Bienvenido 🎉'
 }
 ```
+
 ## I'm a Systems Analyst graduate from UTN and a Backend Developer with NestJS based in :argentina: - Resistencia Chaco, but with the soul of a Nomad!
 
 # About Me
-- 🔭 I’m currently working on exciting NestJS projects.
-- 🌱 I’m always learning and exploring new technologies.
-- 💬 Ask me about anything related to backend development or technology in general.
-- 📫 How to reach me: LinkedIn, Facebook, Twitter
+🔭 I’m currently working on exciting NestJS projects.
+🌱 I’m always learning and exploring new technologies.
+💬 Ask me about anything related to backend development or technology in general.
+📫 How to reach me: LinkedIn, Facebook, Twitter
 
 Let's connect!
 - [Linkedin](https://www.linkedin.com/in/matias-luciano-garcia)
