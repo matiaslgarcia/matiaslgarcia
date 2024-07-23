@@ -6,7 +6,7 @@ const helloWorld = () => {
 }
 ```
 
-## I'm a Systems Analyst graduate from UTN and a Backend Developer with NestJS based in :argentina: - Resistencia Chaco, but with the soul of a Nomad!
+## I'm a Systems Analyst graduate from UTN and a Backend Developer with NodeJS/NestJS based in :argentina: - Resistencia Chaco, but with the soul of a Nomad!
 
 # About Me
 - 🔭 I’m currently working on exciting NestJS projects.
@@ -20,11 +20,11 @@ Let's connect!
 - [Twitter](https://twitter.com/matiaslgarcia94)
 
 Tech Stack
-- 💻 Backend: NestJS, Node.js, GraphQL
+- 💻 Backend: NestJS, Node.js, Express, GraphQL
 - 🌐 Frontend: HTML, CSS, JavaScript & React
-- 🛢️ Databases: MongoDB, MySQL, SQLServer
-- ⚙️ Tools: Git, VSCode
-- 📖 Programming Language: Typescript, Java
+- 🛢️ Databases: MongoDB, PostgresQL, Prisma, TypeORM
+- ⚙️ Tools: Git, VSCode, Docker
+- 📖 Programming Language: Typescript, Javascript, Java
 
 
 ### Tools and Language
